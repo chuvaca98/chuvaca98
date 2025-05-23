@@ -5,7 +5,7 @@
  ![Pyton](https://img.shields.io/badge/-Python-333333?=flat&logo=python)
  ![Javacripts](https://img.shields.io/badge/-Javascript-333333?=flat&logo=javascript)
  ![Html](https://img.shields.io/badge/-Html5-333333?=flat&logo=html5)
- <br/>
+
  ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?=flat&logo=mongoDb)
  ![Mysql](https://img.shields.io/badge/-Mysql-333333?=flat&logo=Mysql)
  ![.net](https://img.shields.io/badge/-.Net-333333?=flat&logo=.net)
