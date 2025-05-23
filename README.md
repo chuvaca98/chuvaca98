@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello, i'm Bryan nice to meet you
+
+* I am Junior fullstack programmer
+* Tech Stack:
+ https://img.shields.io/badge/Javascript-blue
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chuvaca98&theme=blue-navy)](https://git.io/streak-stats)
 
 <!--
 **chuvaca98/chuvaca98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
