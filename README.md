@@ -1,8 +1,13 @@
 # Hello, i'm Bryan nice to meet you
 
 * I am Junior fullstack programmer
-* Tech Stack:
- https://img.shields.io/badge/Javascript-blue
+* Tech Stack: 
+ ![Pyton](https://img.shields.io/badge/-Python-333333?=flat&logo=python)
+ ![Javacripts](https://img.shields.io/badge/-Javascript-333333?=flat&logo=javascript)
+ ![Html](https://img.shields.io/badge/-Html5-333333?=flat&logo=html5)
+ ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?=flat&logo=mongoDb)
+ ![Mysql](https://img.shields.io/badge/-Mysql-333333?=flat&logo=Mysql)
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chuvaca98&theme=blue-navy)](https://git.io/streak-stats)
