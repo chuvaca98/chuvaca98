@@ -12,6 +12,11 @@
  ![Aws](https://img.shields.io/badge/-Aws-333333?=flat&logo=amazonwebservices)
  ![Git](https://img.shields.io/badge/-Git-333333?=flat&logo=Git)
 
+*Contact Me
+
+Email: Oquendox90@gmail.com
+
+Linkedin: 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chuvaca98&theme=blue-navy)](https://git.io/streak-stats)
