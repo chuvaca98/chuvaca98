@@ -124,3 +124,11 @@ I love learning new technologies, working in teams, and building solutions that 
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🚀 Featured Projects
+
+#### 🛒 Accounting coffee shop
+![Accounting coffee shop](https://i.postimg.cc/kg4JzSKv/image.png)
+> Full Stack MERN app with product management, authentication, and Stripe payments.  
+**Techs:** React, Node.js, Express, MongoDB, AWS S3  
+🔗 [Repository](https://github.com/chuvaca98/Programa-contable)
