@@ -17,7 +17,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">💭 "Confusion is part of programming."</h2></summary>
   </ul>
 </div>
 
@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently delving deeper into **React**, **Node.js** y **.NET**
 
-- ☁️ I’ve keen interest in continue to improve my skills
+- ☁️ I’m always eager to keep improving my skills
 
 - 💬 Ask me about **Python, Html, SQL, nodejs, mongoDB, AWS**
 
