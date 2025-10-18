@@ -129,6 +129,6 @@ I love learning new technologies, working in teams, and building solutions that 
 
 #### 🛒 Accounting coffee shop
 ![Accounting coffee shop](https://i.postimg.cc/kg4JzSKv/image.png)
-> Full Stack MERN app with product management, authentication, and Stripe payments.  
-**Techs:** React, Node.js, Express, MongoDB, AWS S3  
+> Full Stack MERN app with product management, authentication and creation of invoices
+**Techs:** Html, Javascript, css 
 🔗 [Repository](https://github.com/chuvaca98/Programa-contable)
