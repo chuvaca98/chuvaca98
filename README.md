@@ -7,7 +7,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello! 👋, I'm Bryan</h1></summary>
-   <h2> 🚀 Junior Full Stack Developer | 💡 Passionate about technology and problem solving </h2>
+   <h2> 🚀 Junior Full Stack Programmer | 💡 Passionate about technology and problem solving </h2>
    <h3>🎯 My goal: To become a Senior Full Stack Developer specializing in scalable architectures.</h3>
   </ul>
 </div>
@@ -39,7 +39,7 @@
  <ul align="center"> <summary><h2 style="display: inline-block">About me👇</h2></summary> </ul>
  <ul align="none">
   
-💻 I am a Junior Full Stack Developer with experience in creating modern web applications.  
+💻 I am a Junior Full Stack Programmer with experience in creating modern web applications.  
 I love learning new technologies, working in teams, and building solutions that bring real value.
 
 ⚡ Fun fact: I love automating tasks with Python and exploring new APIs.  
@@ -127,8 +127,8 @@ I love learning new technologies, working in teams, and building solutions that 
 
 ### 🚀 Featured Projects
 
-#### 🛒 Accounting coffee shop
+#### 🛒 Program for accounting for coffee purchases and sales
 ![Accounting coffee shop](https://i.postimg.cc/kg4JzSKv/image.png)
 > Full Stack MERN app with product management, authentication and creation of invoices
-**Techs:** Html, Javascript, css 
+**Techs:** Html, Javascript, Css 
 🔗 [Repository](https://github.com/chuvaca98/Programa-contable)
